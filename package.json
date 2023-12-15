@@ -1,0 +1,24 @@
+{
+  "name": "octagon_8task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nfixdev/octagon8_task.git"
+  },
+  "author": "Tozhiev Roman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nfixdev/octagon8_task/issues"
+  },
+  "homepage": "https://github.com/nfixdev/octagon8_task#readme",
+  "dependencies": {
+    "mysql2": "^3.6.5",
+    "node-telegram-bot-api": "^0.64.0",
+    "set-interval-async": "^3.0.3"
+  }
+}
