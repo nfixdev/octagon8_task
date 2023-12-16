@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/nfixdev/octagon8_task#readme",
   "dependencies": {
+    "cron": "^3.1.6",
     "mysql2": "^3.6.5",
     "node-telegram-bot-api": "^0.64.0",
     "set-interval-async": "^3.0.3"
